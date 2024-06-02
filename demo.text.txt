@@ -1,5 +1,5 @@
--git config--global user.name "neev"
--git config--global user.email "neev.modha@gmail.com"
+-git config--global user.name "abc"
+-git config--global user.email "xyz.modha@gmail.com"
 
 
 

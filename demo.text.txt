@@ -1,0 +1,28 @@
+-git config--global user.name "neev"
+-git config--global user.email "neev.modha@gmail.com"
+
+
+
+-create folder DemoGit
+
+-git init
+
+-create demo.txt
+ Hello
+
+-git status
+
+-git add.
+
+-git status
+
+-git commit-m"Change 1"
+
+
+-Hello World
+
+-git status
+
+-git add.
+
+-git status
